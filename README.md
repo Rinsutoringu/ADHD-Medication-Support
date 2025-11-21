@@ -162,7 +162,6 @@ lib/
 如有问题或建议，欢迎通过以下方式联系：
 
 - 提交 [Issue](../../issues)
-- 邮件：[your.email@example.com]
 
 ## 🙏 致谢
 
